@@ -1,0 +1,3 @@
+<%# install nginx with a template %>
+Welcome to <%= $app %>-<%= $version %>.pp By Tsirimihanta Fandeferana on <%= $fqdn %>
+ 
